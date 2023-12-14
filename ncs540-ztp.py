@@ -17,7 +17,7 @@ IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
 or implied.
 '''
 
-from __future__ import absolute_import, division, print_function
+#from __future__ import absolute_import, division, print_function
 
 _author__ = "Tahsin Chowdhury <tchowdhu@cisco.com>"
 __copyright__ = "Copyright (c) 2020 Cisco and/or its affiliates."
