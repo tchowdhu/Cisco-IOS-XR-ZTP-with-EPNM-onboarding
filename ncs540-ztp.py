@@ -36,8 +36,8 @@ from ztp_helper import ZtpHelpers
 
 
 DHCP_SERVER_IP = "xx.xx.xx.xx"
-CONFIG_DIR = "NCS540"
-CONFIG_FILE = "ncs540-ztp-template.cfg"
+CONFIG_DIR = "<folder_name>"
+CONFIG_FILE = "<config-file>"
 DEVICE_DATA_FILE = "data.json"
 DESTINATION_FOLDER="/disk0:/ztp/tmp"
 
