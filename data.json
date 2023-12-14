@@ -1,7 +1,7 @@
 {
-		"EPNM_IP": "10.89.198.216",
-		"EPNM_USER": "root",
-		"EPNM_PASS": "Nmsc1234!",
-		"DEVICE_USER": "cisco",
-		"DEVICE_PASS": "Cisco@123"
+		"EPNM_IP": "xx.xx.xx.xx",
+		"EPNM_USER": "epnm",
+		"EPNM_PASS": "epnmpassword",
+		"DEVICE_USER": "device",
+		"DEVICE_PASS": "devicepassword"
 }
