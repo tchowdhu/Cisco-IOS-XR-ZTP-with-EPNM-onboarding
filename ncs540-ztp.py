@@ -38,7 +38,7 @@ from ztp_helper import ZtpHelpers
 DHCP_SERVER_IP = "xx.xx.xx.xx"
 CONFIG_DIR = "<folder_name>"
 CONFIG_FILE = "<config-file>"
-DEVICE_DATA_FILE = "data.json"
+DEVICE_DATA_FILE = "<data-file-in-json>"
 DESTINATION_FOLDER="/disk0:/ztp/tmp"
 
 DATA_FILE_URL = "http://{}/{}/{}".format(DHCP_SERVER_IP, CONFIG_DIR, DEVICE_DATA_FILE)
