@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# -*- coding: utf-8 -*-
 '''
 Copyright (c) 2023 Cisco and/or its affiliates.
 
@@ -15,8 +15,13 @@ reserved. Unless required by applicable law or agreed to separately in
 writing, software distributed under the License is distributed on an "AS
 IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
 or implied.
-
 '''
+
+from __future__ import absolute_import, division, print_function
+
+_author__ = "Tahsin Chowdhury <tchowdhu@cisco.com>"
+__copyright__ = "Copyright (c) 2020 Cisco and/or its affiliates."
+__license__ = "Cisco Sample Code License, Version 1.1"
 
 import  os
 import sys
