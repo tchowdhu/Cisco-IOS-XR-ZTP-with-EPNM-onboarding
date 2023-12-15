@@ -14,6 +14,6 @@ In this example, we utilized python ztp script. The work flow is summarized belo
 
 </br>1. Fresh Cisco IOS XR Platform, or mimicing it by cleaning the config using "commit replace" command in the config mode.
 </br>2. Follow any of the following method to initiate ZTP:
-</br></t>a. Boot a fresh router.
-</br></t>b. Click the physical ZTP Button the XR Chassis (if any).
-</br></t>c. After "commit replace" to clean the config, exit the config mode and run, "ztp initiate verbose".
+</br>&nbsp;&nbsp;&nbsp;&nbsp;a. Boot a fresh router.
+</br>&nbsp;&nbsp;&nbsp;&nbsp;b. Click the physical ZTP Button the XR Chassis (if any).
+</br>&nbsp;&nbsp;&nbsp;&nbsp;c. After "commit replace" to clean the config, exit the config mode and run, "ztp initiate verbose".
